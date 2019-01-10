@@ -1,0 +1,11 @@
+.DS_Store
+.idea
+.next
+.vscode
+build
+coverage
+node_modules
+npm-debug*
+out
+yarn-debug*
+yarn-error*
