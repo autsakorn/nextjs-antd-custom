@@ -18,6 +18,6 @@
   "license": "ISC",
   "devDependencies": {
     "@zeit/next-less": "^1.0.1",
-    "next": "^7.0.2"
+    "next": "^9.3.3"
   }
 }
